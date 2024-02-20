@@ -1,0 +1,54 @@
+[
+    {
+        "name": "html",
+        "path": "/techs/html.png"
+    },
+    {
+        "name": "css",
+        "path": "/techs/css.png"
+    },
+    {
+        "name": "docker",
+        "path": "/techs/docker.png"
+    },
+    {
+        "name": "firebase",
+        "path": "/techs/firebase.webp"
+    },
+    {
+        "name": "github",
+        "path": "/techs/github.png"
+    },
+    {
+        "name": "gitlab",
+        "path": "/techs/gitlab.png"
+    },
+    {
+        "name": "aws",
+        "path": "/techs/aws.png"
+    },
+    {
+        "name": "js",
+        "path": "/techs/js.png"
+    },
+    {
+        "name": "mongo",
+        "path": "/techs/mongo.png"
+    },
+    {
+        "name": "next",
+        "path": "/techs/next.png"
+    },
+    {
+        "name": "react",
+        "path": "/techs/react.png"
+    },
+    {
+        "name": "sass",
+        "path": "/techs/sass.png"
+    },
+    {
+        "name": "sql",
+        "path": "/techs/sql.png"
+    }
+]

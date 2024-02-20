@@ -1,0 +1,82 @@
+[
+    {
+        "path": "/schools/platzi.png",
+        "school": "Platzi",
+        "name": "Curso de Introduccion a la Automatizacion de pruebas ",
+        "description": "Fundamentos teoricos y practica llevada a cabo de Testing de software. ",
+        "begin": "2023",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/platzi.png",
+        "school": "Platzi",
+        "name": "Curso de fundamentos de Typescript ",
+        "description": "Fundamentos teoricos y practica llevada a cabo con Typescript. ",
+        "begin": "2022",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/udemy.png",
+        "school": "Udemy",
+        "name": "AWS Cloud Practitioner ",
+        "description": "Roles con IAM, Instancias con EC2, Servicios como ELB, S3, VPC, Route 53, y mas. ",
+        "begin": "2022",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/udemy.png",
+        "school": "Udemy",
+        "name": "Next js ",
+        "description": "Tecnologias React js, Next js, TailwindCSS y MongoDB. ",
+        "begin": "2022",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/coder.png",
+        "school": "Coderhouse",
+        "name": "Angular js ",
+        "description": "Tecnologias Angular y Typescript. ",
+        "begin": "2021",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/platzi.png",
+        "school": "Platzi",
+        "name": "Curso de MariaDB & SQL",
+        "description": "Desarrollo de app con base de datos con SQL y MariaDB. ",
+        "begin": "2021",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/coder.png",
+        "school": "Coderhouse",
+        "name": "Desarrollo de aplicaciones mobile",
+        "description": "Tecnologias React js, React Native, Android y Firebase. ",
+        "begin": "2020",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/coder.png",
+        "school": "Coderhouse",
+        "name": "Carrera Desarrollo Front-End",
+        "description": "Tecnologias HTML, CSS, Javascript, React js y Firebase.",
+        "begin": "2019",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/utnba.png",
+        "school": "UTN E-Learning",
+        "name": "Diplomatura en desarrollo web full stack con Node js y Express y React js con Redux",
+        "description": "Tecnologias Node js, SQL, MongoDB,  React js y Redux.",
+        "begin": "2018",
+        "status": "Terminado"
+    },
+    {
+        "path": "/schools/utnba.png",
+        "school": "UTN E-Learning",
+        "name": "Programador web inicial",
+        "description": "Tecnologias HTML, CSS y Javascript. Desarrollo de sitio web estatico.",
+        "begin": "2017",
+        "status": "Terminado"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "path": "/schools/solution.png",
+        "place": "Solution Box SRL",
+        "name": "Full Stack web Developer",
+        "description": "Llevo a cabo el desarrollo front-end y back-end de grandes clientes/proyectos, y el mantenimiento de los mismos.",
+        "begin": "2022",
+        "status": "Actualidad"
+    },
+    {
+        "path": "/profile.jpeg",
+        "place": "Freelance",
+        "name": "Full Stack web Developer",
+        "description": "Llevo a cabo el desarrollo front-end y back-end de distintos clientes, y el mantenimiento de los mismos.",
+        "begin": "2021",
+        "status": "Actualidad"
+    },
+    {
+        "path": "/schools/coder.png",
+        "place": "Coderhouse",
+        "name": "Tutor React Js",
+        "description": "Tutoria del curso de React js dictado por la institucion. Poseo alumnos a mi cargo para guiarlos y dar correccion de sus trabajos.",
+        "begin": "2021",
+        "status": "2023"
+    },
+    {
+        "path": "/schools/coder.png",
+        "place": "Coderhouse",
+        "name": "Frontend Developer Freelance",
+        "description": "Desarrollo de proyectos web Frontend, derivados por la institucion de manera freelance.",
+        "begin": "2021",
+        "status": "2021"
+    }
+]

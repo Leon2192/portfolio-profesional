@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes grow {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+.animate-grow {
+  animation: grow 0.5s ease-in-out;
+}
+
+@media only screen and (max-width: 767px) {
+  .mobile-links {
+    display: none;
+  }
+
+  .mobile-hero h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 4em;
+  }
+
+  .mobile-hero p {
+    font-size: 1.2em;
+  }
+
+  .mobile-hero .techs {
+    display: none;
+  }
+
+  .mobile-hero button {
+    margin-bottom: 10px;
+  }
+
+  .about {
+    display: none;
+  }
+
+  .experience .toggle-h1 {
+    display: none;
+  }
+  
+
+  .experience p {
+    display: none;
+  }
+
+
+}

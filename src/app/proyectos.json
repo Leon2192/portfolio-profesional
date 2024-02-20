@@ -1,0 +1,77 @@
+[
+    {
+        "image": "/projects/goproject.jpg",
+        "url": "https://www.gopro.ar/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/dm.jpg",
+        "url": "https://broove.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/advertising.jpg",
+        "url": "https://nahitan-web-dev.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/status.png",
+        "url": "https://status-web-app.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/patagonia.jpg",
+        "url": "https://patagonianllc.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/boost.jpg",
+        "url": "https://nextjs-pwa-delta.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/netflix.jpg",
+        "url": "https://netflix-clone-tailwind-nextjs.vercel.app/auth",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/formvalidate.png",
+        "url": "https://react-form-validate.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/openjira.jpg",
+        "url": "https://openjira-blue.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/drag.jpg",
+        "url": "https://nextjs-drag-drop.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/budget.jpg",
+        "url": "https://angular-app-presupuesto.vercel.app/ingresarPresupuesto",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/spotify.jpg",
+        "url": "https://spotify-ui-clone-six.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/poke.jpeg",
+        "url": "https://poke-challenge-arrieta-leonardo.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/estudio.jpg",
+        "url": "https://r-l-arq.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    },
+    {
+        "image": "/projects/meet.png",
+        "url": "https://meetups-app-six.vercel.app/",
+        "nombre": "GoPro Landing Reseller"
+    }
+]
